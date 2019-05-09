@@ -1,0 +1,7 @@
+C:\Users\edove\Desktop\3DES-Files-Encryption-Decryption\3DES-Files-Encryption-Decryption\bin\Debug\3DES-Files-Encryption-Decryption.exe.config
+C:\Users\edove\Desktop\3DES-Files-Encryption-Decryption\3DES-Files-Encryption-Decryption\bin\Debug\3DES-Files-Encryption-Decryption.exe
+C:\Users\edove\Desktop\3DES-Files-Encryption-Decryption\3DES-Files-Encryption-Decryption\bin\Debug\3DES-Files-Encryption-Decryption.pdb
+C:\Users\edove\Desktop\3DES-Files-Encryption-Decryption\3DES-Files-Encryption-Decryption\obj\Debug\3DES-Files-Encryption-Decryption.csprojAssemblyReference.cache
+C:\Users\edove\Desktop\3DES-Files-Encryption-Decryption\3DES-Files-Encryption-Decryption\obj\Debug\3DES-Files-Encryption-Decryption.csproj.CoreCompileInputs.cache
+C:\Users\edove\Desktop\3DES-Files-Encryption-Decryption\3DES-Files-Encryption-Decryption\obj\Debug\3DES-Files-Encryption-Decryption.exe
+C:\Users\edove\Desktop\3DES-Files-Encryption-Decryption\3DES-Files-Encryption-Decryption\obj\Debug\3DES-Files-Encryption-Decryption.pdb

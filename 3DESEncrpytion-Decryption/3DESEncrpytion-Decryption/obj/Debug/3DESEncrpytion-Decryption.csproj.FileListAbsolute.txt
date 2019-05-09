@@ -1,0 +1,10 @@
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\bin\Debug\3DESEncrpytion-Decryption.exe.config
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\bin\Debug\3DESEncrpytion-Decryption.exe
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\bin\Debug\3DESEncrpytion-Decryption.pdb
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\obj\Debug\3DESEncrpytion-Decryption.csprojAssemblyReference.cache
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\obj\Debug\_3DESEncrpytion_Decryption.Form1.resources
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\obj\Debug\_3DESEncrpytion_Decryption.Properties.Resources.resources
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\obj\Debug\3DESEncrpytion-Decryption.csproj.GenerateResource.cache
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\obj\Debug\3DESEncrpytion-Decryption.csproj.CoreCompileInputs.cache
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\obj\Debug\3DESEncrpytion-Decryption.exe
+C:\Users\edove\Desktop\3DESEncrpytion-Decryption\3DESEncrpytion-Decryption\obj\Debug\3DESEncrpytion-Decryption.pdb
